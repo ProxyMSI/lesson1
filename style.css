@@ -1,0 +1,31 @@
+.text1 {
+  float: right;
+  font-size: 20px;
+  background-color: rgba(240, 255, 255, 0.447);
+}
+
+.text2 {
+  float: right;
+  font-size: 20px;
+  background-color: rgba(240, 248, 255, 0.423);
+}
+body {
+  color: rgb(4, 4, 4);
+  background-image: url(https://248006.selcdn.ru/main/iblock/477/477620f55a46df231f155f3df4436f44/19ea2fa97a53b9f05d52e5d7adccf674.png);
+  background-size: cover;
+}
+.b {
+  color: red;
+}
+
+.a {
+  color: red;
+}
+
+.c {
+  color: red;
+}
+
+.d {
+  color: red;
+}
